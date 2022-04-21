@@ -3,39 +3,26 @@
     
     <h1>Let's get in touch</h1>
 
-    <div style="margin-bottom:40px;">I'm looking for a job !<br/>Feel free to contact me about any opportunity, or just to chat about cooking, kittens or anything else.</div>
+    <div style="margin-bottom:40px;">I'm looking for a job !<br/>Feel free to contact me about any opportunity, or just to chat about games, cats or anything else.</div>
 
     <ul>
       <li>
-        <i class="fa fa-user-circle-o fa-lg fa-fw"></i>
-        <a href="http://mywebsite.com" target="_blank">https://mywebsite.com</a>
+        <i class="fa-solid fa-envelope fa-lg fa-fw"></i>
+        <a href="mailto:fifthedgestudios@gmail.com" target="_blank">fifthedgestudios@gmail.com</a>
       </li>
       <li>
-        <i class="fa fa-envelope-o fa-lg fa-fw"></i>
-        <a href="mailto:my@email.com" target="_blank">my@email.com</a>
-      </li>
-      <li>
-        <i class="fa fa-linkedin fa-lg fa-fw" style="vertical-align: -5%;"></i>
-        <a href="https://www.linkedin.com/me" target="_blank">linkedin.com/me</a>
-      </li>
-      <li>
-        <i class="fa fa-github fa-lg fa-fw"></i>
-        <a href="https://github.com/me" target="_blank">github.com/me</a>
+        <i class="fa-brands fa-github fa-lg fa-fw"></i>
+        <a href="https://github.com/bentheperson1" target="_blank">github.com/bentheperson1</a>
       </li>
       <li>
         <i class="fa fa-gamepad fa-lg fa-fw"></i>
-        <a href="https://myself.itch.io" target="_blank">myself.itch.io</a>
+        <a href="https://fifthedgestudios.itch.io" target="_blank">fifthedgestudios.itch.io</a>
       </li>
       <li>
-        <i class="fa fa-tumblr fa-lg fa-fw"></i>
-        <a href="https://myblog.tumblr.com" target="_blank">myblog.tumblr.com</a>
-      </li>
-      <li>
-        <i class="fa fa-steam fa-lg fa-fw"></i>
-        <a href="https://steamcommunity.com/id/me" target="_blank">steam.com/me</a>
+        <i class="fa-brands fa-discord fa-lg fa-fw"></i>
+        null_ham#2050
       </li>
     </ul>
-
   </div>
 </template>
 

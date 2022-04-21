@@ -6,7 +6,8 @@
       I'm <strong>Ben Holland</strong>, an indie & freelance game developer.
       <br /><br />I've been doing game development in general for about 4-5 years now.
       <br />My main game engine of choice is GameMaker/GameMaker Studio 2. I also have substantial experience with Unity & Godot.<br/>
-      <br />I'm currently 15 and I've been programming and doing game development since I was about 11. 
+      <br />I'm currently 15 and I've been programming/doing game development since I was about 11.<br />
+      <br />I'm currently looking for a part time job at a game studio in the DFW area or remote as a summer job. If you would like to hire me, please contact me <router-link to="/contact">here.</router-link>
     </div>
     <div>
       <div class="photo">
@@ -38,19 +39,20 @@
       </div>
 
       <div class="skill-set">
-        <h3>General Programming</h3>
+        <h3>Programming</h3>
         <SkillRate name="HTML+CSS" :rate="5" />
         <SkillRate name="Git" :rate="3" />
         <SkillRate name="Python" :rate="4" />
+      </div>
+
+      <div class="skill-set">
+        <h3>General Skills</h3>
         <SkillRate name="Problem Solving" :rate="4" />
+        <SkillRate name="Teamwork" :rate="4" />
+        <SkillRate name="Basic Algebra" :rate="5" />
       </div>
       <div style="clear:both" />
 
-      <h2>Education</h2>
-
-      <h4>Bailey JR High - 2021</h4>
-      <h4>Arlington High School - 2025</h4>
-      
       <h2>Languages</h2>
 
       <h3>English</h3>
